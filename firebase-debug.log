@@ -1,0 +1,42 @@
+[debug] [2023-08-18T21:27:07.377Z] ----------------------------------------------------------------------
+[debug] [2023-08-18T21:27:07.381Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\johnl\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-18T21:27:07.381Z] CLI Version:   12.4.8
+[debug] [2023-08-18T21:27:07.381Z] Platform:      win32
+[debug] [2023-08-18T21:27:07.382Z] Node Version:  v19.3.0
+[debug] [2023-08-18T21:27:07.382Z] Time:          Fri Aug 18 2023 23:27:07 GMT+0200 (hora de verano de Europa central)
+[debug] [2023-08-18T21:27:07.382Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-18T21:27:07.387Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-18T21:27:07.388Z] > authorizing via signed-in user (my.apperasmus@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\johnl\Documents\erasmusapp\erasmusapp
+
+[debug] [2023-08-18T21:29:42.981Z] ----------------------------------------------------------------------
+[debug] [2023-08-18T21:29:42.983Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\johnl\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-18T21:29:42.983Z] CLI Version:   12.4.8
+[debug] [2023-08-18T21:29:42.983Z] Platform:      win32
+[debug] [2023-08-18T21:29:42.984Z] Node Version:  v19.3.0
+[debug] [2023-08-18T21:29:42.984Z] Time:          Fri Aug 18 2023 23:29:42 GMT+0200 (hora de verano de Europa central)
+[debug] [2023-08-18T21:29:42.984Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-18T21:29:42.989Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-18T21:29:42.989Z] > authorizing via signed-in user (my.apperasmus@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\johnl\Documents\erasmusapp\erasmusapp
+
